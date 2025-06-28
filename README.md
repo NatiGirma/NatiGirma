@@ -30,7 +30,7 @@ I'm a passionate Software Engineer with hands-on experience in front-end web dev
 
 ### QuickPost – Social Media Management Tool (SMMT)
 
-![Project 1 Screenshot](https://drive.google.com/file/d/179qurBWrPF0DDOJ33YKFXGAdN0bwlOmd/view?usp=sharing)
+![Project 1 Screenshot](https://res.cloudinary.com/dltnxkfrn/image/upload/v1751135413/Quickpost_vwkww6.jpg)
 
 
 ## Get in Touch 📬
