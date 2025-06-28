@@ -1,6 +1,6 @@
 # Hi there, I'm Natnael Girma 👋
 
-!https://drive.google.com/file/d/1_D84hpCc4_isK7REtOWUCDp4qr7yDSjq/view?usp=sharing
+![Banner Image]([https://drive.google.com/file/d/1_D84hpCc4_isK7REtOWUCDp4qr7yDSjq/view?usp=sharing])
 
 ## About Me 🚀
 
