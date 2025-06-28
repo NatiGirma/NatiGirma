@@ -1,6 +1,6 @@
 # Hi there, I'm Natnael Girma 👋
 
-![Banner Image]([https://res.cloudinary.com/dltnxkfrn/image/upload/v1751135108/NG-Logo_zpt9px.jpg])
+![Banner Image](https://res.cloudinary.com/dltnxkfrn/image/upload/v1751135108/NG-Logo_zpt9px.jpg)
 
 ## About Me 🚀
 
